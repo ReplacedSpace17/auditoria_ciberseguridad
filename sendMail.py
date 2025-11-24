@@ -4,8 +4,8 @@ from email.mime.text import MIMEText
 # Configuración del servidor SMTP de Hostinger
 smtp_server = "smtp.hostinger.com"  # Dirección del servidor SMTP de Hostinger
 smtp_port = 465  # Puerto 465 para SSL
-smtp_user = "tortillapp@neurosense.mx"  # Tu correo de Hostinger utilizado para autenticación
-smtp_password = "L4^ttKu&on"  # La contraseña de tu correo de Hostinger
+smtp_user = "user"  # Tu correo de Hostinger utilizado para autenticación
+smtp_password = "Password here"  # La contraseña de tu correo de Hostinger
 
 # Datos del correo
 from_email = "tortillapp@neurosense.mx"  # Dirección personalizada de correo que aparecerá como remitente
